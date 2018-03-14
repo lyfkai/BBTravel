@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">便便出行</string>
+    <string name="zgsy">最高单车单日收益</string>
+    <string name="y">元</string>
+    <string name="sz">1345</string>
+    <string name="text_pj">平均单车单日收益</string>
+    <string name="yjnhsy">预计年化收益</string>
+    <string name="zc">租车</string>
+    <string name="gc">购车投资</string>
+</resources>

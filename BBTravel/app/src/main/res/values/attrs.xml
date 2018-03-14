@@ -1,0 +1,16 @@
+<resources>
+    <declare-styleable name="SwitchButton">
+        <attr name="bordeWidth" format="dimension"/>
+        <attr name="areaColor" format="reference|color"/>
+        <attr name="offColor" format="reference|color"/>
+        <attr name="onColor" format="reference|color"/>
+        <attr name="handlerColor" format="reference|color"/>
+        <attr name="animate" format="reference|boolean"/>
+        <attr name="defaultOn" format="reference|boolean"/>
+
+        <attr name="matchStyle" format="enum">
+            <enum name="whole" value="0"/>
+            <enum name="handler" value="1"/>
+        </attr>>
+    </declare-styleable>
+</resources>

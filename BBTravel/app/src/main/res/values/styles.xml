@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="My_ll_bt">
+        <item name="android:layout_width">@dimen/layout_width_tx</item>
+        <item name="android:layout_height">@dimen/bt_height</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal|center_vertical</item>
+        <item name="android:textSize">@dimen/h_size</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="My_ll_view">
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_marginLeft">@dimen/layout_Left</item>
+        <item name="android:layout_marginRight">@dimen/layout_Left</item>
+        <item name="android:background">#DDDDDD</item>
+    </style>
+
+</resources>

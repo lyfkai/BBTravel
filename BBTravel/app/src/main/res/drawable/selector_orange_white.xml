@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--蓝白字体颜色切换 默认是蓝 点击之后是白-->
+    <item android:color="@color/colorSolid" android:state_pressed="false" android:state_enabled="true"/>
+    <item android:color="@color/white" android:state_pressed="true" android:state_enabled="true"/>
+    <!--边框线-->
+    <item android:color="@color/colorNsy" android:state_enabled="false"/>"
+</selector>
